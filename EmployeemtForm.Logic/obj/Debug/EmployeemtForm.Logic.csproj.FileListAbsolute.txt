@@ -1,0 +1,6 @@
+E:\Abinash Projects\EmployeementForm\EmployeemtForm.Logic\bin\Debug\EmployeemtForm.Logic.dll
+E:\Abinash Projects\EmployeementForm\EmployeemtForm.Logic\bin\Debug\EmployeemtForm.Logic.pdb
+E:\Abinash Projects\EmployeementForm\EmployeemtForm.Logic\obj\Debug\EmployeemtForm.Logic.csproj.AssemblyReference.cache
+E:\Abinash Projects\EmployeementForm\EmployeemtForm.Logic\obj\Debug\EmployeemtForm.Logic.csproj.CoreCompileInputs.cache
+E:\Abinash Projects\EmployeementForm\EmployeemtForm.Logic\obj\Debug\EmployeemtForm.Logic.dll
+E:\Abinash Projects\EmployeementForm\EmployeemtForm.Logic\obj\Debug\EmployeemtForm.Logic.pdb
